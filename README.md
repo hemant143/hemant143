@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemant143
-- 👀 I’m interested in c# data scraping crawler, web api, automation angular  
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data anlytic based project
+- 👀 I’m professional developer in c#,.net core, azure, data scraping crawler, web api, automation and angular  
+- 🌱 I’m currently learning AI AND ML.
+- 💞️ I’m looking to collaborate on data anlytic based project.
 
 
 <!---
